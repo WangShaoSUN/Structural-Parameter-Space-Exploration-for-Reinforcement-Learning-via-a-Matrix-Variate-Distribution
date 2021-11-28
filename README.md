@@ -1,4 +1,4 @@
-##Structural Parameter Space Exploration for Reinforcement Learning via a Matrix Variate Distribution
+## Structural Parameter Space Exploration for Reinforcement Learning via a Matrix Variate Distribution
 
 PyTorch implementation of paper "Structural Parameter Space Exploration for
 Reinforcement Learning via a Matrix Variate
