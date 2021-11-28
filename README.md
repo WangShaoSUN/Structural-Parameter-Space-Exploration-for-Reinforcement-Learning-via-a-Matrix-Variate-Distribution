@@ -6,7 +6,7 @@ Distribution"
 
 The code is coming.
 ## Visualization of the environments
-<img src="mario.png" width="1000" align="middle"/>
+<img src="file/mario.png" width="1000" align="middle"/>
 <br>
-<img src="mario_score.png" width="1000" align="middle"/>
+<img src="file/mario_score.png" width="1000" align="middle"/>
 <br>
